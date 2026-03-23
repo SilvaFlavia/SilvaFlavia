@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Flávia Silva 👋
 
-<!--
-**SilvaFlavia/SilvaFlavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Trainer | RLHF Specialist | LLM Evaluation Expert**
+📍 Rio de Janeiro, Brazil • 🌐 Available worldwide (remote)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 About Me
+
+I train AI to be better — more accurate, safer, and more aligned.
+
+9+ years at Invisible Technologies, One Forma, Lionbridge, Appen.
+I specialize in RLHF, LLM evaluation, AI ethics & safety review.
+
+---
+
+## 🛠️ Core Skills
+
+- RLHF & Preference Data Collection
+- LLM Output Evaluation & Red Teaming
+- AI Ethics, Bias Detection & Safety Review
+- Instruction Tuning & SFT Data Authoring
+- Evaluation Rubric Design & Team Mentoring
+
+---
+
+## 📧 flavia_marinelli@hotmail.com
