@@ -35,33 +35,38 @@ With 9+ years of experience in large-scale AI programs, I focus on **model behav
 + Instruction Tuning & SFT Data Development
 + Evaluation Frameworks & Rubric Design
 
-🧪 Selected Work (AI Programs • Confidential)
-Worked on large-scale RLHF pipelines for conversational AI
-Evaluated model outputs across safety, reasoning, and factuality
-Identified hallucinations, bias, and failure patterns
-Designed evaluation criteria for consistent output quality
-Contributed to the iterative improvement of production AI systems
+## 🧪 Selected Work (AI Programs • Confidential)
 
-🛠️ Tools & Concepts
+- Worked on large-scale RLHF pipelines for conversational AI  
+- Evaluated model outputs across safety, reasoning, and factuality  
+- Identified hallucinations, bias, and failure patterns  
+- Designed evaluation criteria for consistent output quality  
+- Contributed to the iterative improvement of production AI systems  
+
+---
+
+## 🛠️ Tools & Concepts
+
 <p align="center">
 
-LLMs • RLHF • Alignment • Red Teaming • Prompt Evaluation
-Evaluation Pipelines • Human-in-the-loop • Safety Review
-Data Quality • Annotation Systems • QA Workflows
+LLMs • RLHF • Alignment • Red Teaming • Prompt Evaluation  
+Evaluation Pipelines • Human-in-the-loop • Safety Review  
+Data Quality • Annotation Systems • QA Workflows  
 
 </p>
 
-📡 Signal
-Experienced in production-level AI workflows
-Strong focus on alignment and safety
-Background in large-scale, distributed AI programs
+---
 
-🌍 Work Style
-Remote-first, globally collaborative
-Detail-oriented and quality-driven
-Structured, analytical, and consistent
+## 📡 Signal
 
-📫 Contact
-<p align="center"> <a href="mailto:flavia_marinelli@hotmail.com">flavia_marinelli@hotmail.com</a> </p>
+- Experienced in production-level AI workflows  
+- Strong focus on alignment and safety  
+- Background in large-scale, distributed AI programs  
 
-<p align="center"> <i>Contributing to the alignment and evaluation of large-scale AI systems.</i> </p> ```
+---
+
+## 🌍 Work Style
+
+- Remote-first, globally collaborative  
+- Detail-oriented and quality-driven  
+- Structured, analytical, and consistent  
