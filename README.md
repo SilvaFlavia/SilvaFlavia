@@ -54,3 +54,5 @@ Experienced in remote, distributed, and global teams
 
 📫 Contact
 <p align="center"> <a href="mailto:flavia_marinelli@hotmail.com">flavia_marinelli@hotmail.com</a> </p>
+
+<p align="center"> <i>Focused on aligning AI systems with human values at scale.</i> </p> ```
