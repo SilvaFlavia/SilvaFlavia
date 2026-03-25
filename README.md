@@ -5,37 +5,42 @@
 </p>
 
 <p align="center">
-  📍 Brazil • 🌍 Open to Remote Global Opportunities
+  📍 Brazil • 🌍 Remote Global
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-RLHF-blue" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20Evaluation-critical" />
+  <img src="https://img.shields.io/badge/Specialty-AI%20Safety-success" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-black" />
 </p>
 
 ---
 
 ## 🧠 Profile
 
-I specialize in improving production-level AI systems through structured human feedback, evaluation, and safety alignment.
+I work on improving production-level AI systems through structured human feedback, evaluation, and alignment.
 
-With 9+ years of experience in large-scale AI training programs, I work at the intersection of **model behavior, quality evaluation, and alignment**, helping language models become more reliable, safe, and useful in real-world applications.
-
-My work focuses on turning complex model outputs into measurable quality improvements.
+With 9+ years of experience in large-scale AI programs, I focus on **model behavior, output quality, and safety**, contributing to more reliable and aligned language models in real-world applications.
 
 ---
 
-## ⚙️ Core Capabilities
+## 🔎 Focus Areas
 
 ```diff
 + Reinforcement Learning from Human Feedback (RLHF)
-+ LLM Evaluation (quality, reasoning, truthfulness)
-+ AI Safety & Alignment (bias, harmful outputs, edge cases)
++ LLM Evaluation (reasoning, quality, factuality)
++ AI Safety & Alignment (bias, harmful outputs)
 + Red Teaming & Failure Mode Analysis
 + Instruction Tuning & SFT Data Development
 + Evaluation Frameworks & Rubric Design
 
-🧪 Selected Work (Confidential Programs)
-Contributed to large-scale RLHF pipelines for conversational AI systems
-Evaluated and improved model outputs across reasoning, safety, and factuality dimensions
-Performed safety reviews targeting bias, hallucinations, and harmful behavior
-Designed and applied evaluation rubrics for consistent output quality
-Supported continuous improvement cycles for production AI systems
+🧪 Selected Work (AI Programs • Confidential)
+Worked on large-scale RLHF pipelines for conversational AI
+Evaluated model outputs across safety, reasoning, and factuality
+Identified hallucinations, bias, and failure patterns
+Designed evaluation criteria for consistent output quality
+Contributed to the iterative improvement of production AI systems
 
 🛠️ Tools & Concepts
 <p align="center">
@@ -46,13 +51,17 @@ Data Quality • Annotation Systems • QA Workflows
 
 </p>
 
-🌍 Work Approach
-High attention to detail and consistency
-Strong alignment with safety and ethical AI principles
-Comfortable operating in ambiguity and fast-moving environments
-Experienced in remote, distributed, and global teams
+📡 Signal
+Experienced in production-level AI workflows
+Strong focus on alignment and safety
+Background in large-scale, distributed AI programs
+
+🌍 Work Style
+Remote-first, globally collaborative
+Detail-oriented and quality-driven
+Structured, analytical, and consistent
 
 📫 Contact
 <p align="center"> <a href="mailto:flavia_marinelli@hotmail.com">flavia_marinelli@hotmail.com</a> </p>
 
-<p align="center"> <i>Focused on aligning AI systems with human values at scale.</i> </p> ```
+<p align="center"> <i>Contributing to the alignment and evaluation of large-scale AI systems.</i> </p> ```
