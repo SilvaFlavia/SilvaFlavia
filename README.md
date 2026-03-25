@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Brazil • 🌍 Remote Global
+  📍 Brazil • 🌍 Open to Remote Global Opportunities
 </p>
 
 <p align="center">
@@ -27,13 +27,14 @@ With 9+ years of experience in large-scale AI programs, I focus on **model behav
 
 ## 🔎 Focus Areas
 
-```diff
-+ Reinforcement Learning from Human Feedback (RLHF)
-+ LLM Evaluation (reasoning, quality, factuality)
-+ AI Safety & Alignment (bias, harmful outputs)
-+ Red Teaming & Failure Mode Analysis
-+ Instruction Tuning & SFT Data Development
-+ Evaluation Frameworks & Rubric Design
+- Reinforcement Learning from Human Feedback (RLHF)  
+- LLM Evaluation (reasoning, quality, factuality)  
+- AI Safety & Alignment (bias, harmful outputs)  
+- Red Teaming & Failure Mode Analysis  
+- Instruction Tuning & SFT Data Development  
+- Evaluation Frameworks & Rubric Design  
+
+---
 
 ## 🧪 Selected Work (AI Programs • Confidential)
 
@@ -47,13 +48,9 @@ With 9+ years of experience in large-scale AI programs, I focus on **model behav
 
 ## 🛠️ Tools & Concepts
 
-<p align="center">
-
 LLMs • RLHF • Alignment • Red Teaming • Prompt Evaluation  
 Evaluation Pipelines • Human-in-the-loop • Safety Review  
 Data Quality • Annotation Systems • QA Workflows  
-
-</p>
 
 ---
 
@@ -70,3 +67,17 @@ Data Quality • Annotation Systems • QA Workflows
 - Remote-first, globally collaborative  
 - Detail-oriented and quality-driven  
 - Structured, analytical, and consistent  
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:flavia_marinelli@hotmail.com">flavia_marinelli@hotmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Contributing to the alignment and evaluation of large-scale AI systems.</i>
+</p>
